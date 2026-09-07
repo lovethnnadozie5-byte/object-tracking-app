@@ -1,4 +1,19 @@
-# Object Tracking App 🎯
+Object Screen Tracker
+│
+├── Screen capture
+│     └── Gets frames/images of what's displayed
+│
+├── Object detection
+│     └── Finds people, cars, balls, etc.
+│
+├── Object selector
+│     └── User taps the object to track
+│
+├── Tracking engine
+│     └── Follows the selected object frame-by-frame
+│
+└── Tracking overlay
+      └── Glowing circle + arrows around the object# Object Tracking App 🎯
 
 A real-time computer vision-powered object detection and tracking application for Android and iOS. Track any object on your device with a glowing spotlight overlay and directional arrows, displayed on top of all other apps.
 
